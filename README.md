@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @ChristianGigi
-- 👀 I’m interested in learning new Gucci thins
+- 👀 I’m interested in learning new Gucci things 
 - 🌱 I’m currently learning AICE
 - 💞️ I’m looking to collaborate on Others 
 - 📫 How to reach me IG @chris_ryan_08
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: ⭐
+- ⚡ Fun fact: ♌
 
 <!---
 ChristianGigi/ChristianGigi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
